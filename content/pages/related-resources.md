@@ -14,13 +14,13 @@ The following links highlight the concepts covered in 1.105.
     Interactive simulators from 1.050.  
       
      
-*   [National Institute of Standards and Technology, (NIST).](http://www.bfrl.nist.gov/861/)  
+*   {{% resource_link "98440106-e43e-42cf-9795-c8be25be5cf0" "National Institute of Standards and Technology, (NIST)." %}}  
     Description of research areas sponsored by the Materials and Construction Research Division, Building and Fire Research Lab.  
       
      
-*   [University of Wyoming's Structural Research Lab](http://www.uwyo.edu/civil/research/high-bay/index.html).  
+*   {{% resource_link "d04fa9c1-1919-4f81-961e-b7ccdcda33cd" "University of Wyoming's Structural Research Lab" %}}.  
     Several videos of lab experiments.  
       
      
-*   [Kobe Earthquake.](http://www.iitk.ac.in/nicee/wcee/article/13_415.pdf)  
+*   {{% resource_link "fed583b2-afa2-4926-a3f3-0450299e943f" "Kobe Earthquake." %}}  
     Structural damage to highway and bridges due to the Kobe earthquake of January 1995.
