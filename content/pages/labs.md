@@ -45,7 +45,7 @@ Experiment 5 - Concrete Failure
 -------------------------------
 
 Strength, Compressive and Tensile, of Concrete ({{% resource_link 9e00fc51-effc-ad3c-6487-3613974d0ff0 "PDF" %}})  
-{{% resource_link "5f9bdd0d-f101-49ab-918c-b76c66bcac97" "Quickrete Specs" %}} (select Spec Data sheet for Fast-Setting Concrete #1004-50)
+[Quickrete Specs](http://www.quikrete.com/ProductLines/FastSetConcreteMixPro.asp) (select Spec Data sheet for Fast-Setting Concrete #1004-50)
 
 Students will conduct a compressive test on a cylinder of concrete to observe its force/deformation behavior and determine its strength. A second test gives, indirectly, the tensile strength.
 
