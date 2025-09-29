@@ -5,6 +5,8 @@ description: Force-deflection behavior of a planar structure. (Illustration by L
 file: /courses/1-105-solid-mechanics-laboratory-fall-2003/80b8ac9e53acd9c11444d99a5504d43e_exp2_03fig3jpg.jpg
 file_size: 30801
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
