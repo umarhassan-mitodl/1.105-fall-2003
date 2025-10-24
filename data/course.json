@@ -28,7 +28,6 @@
     "website": "1-105-solid-mechanics-laboratory-fall-2003"
   },
   "course_title": "Solid Mechanics Laboratory",
-  "hide_download": true,
   "course_description": "This course introduces students to basic properties of structural materials and behavior of simple structural elements and systems through a series of experiments. Students learn experimental technique, data collection, reduction and analysis, and presentation of results. Students generally take this subject during the same semester as [1.050](/courses/1-050-solid-mechanics-fall-2004), Solid Mechanics.\n",
   "department_numbers": [
     "1"
@@ -39,7 +38,6 @@
     "content": "9db82fa2-4d9a-a03a-c5b6-4a200bf3350e",
     "website": "1-105-solid-mechanics-laboratory-fall-2003"
   },
-  "hide_download_original": true,
   "learning_resource_types": [],
   "site_uid": "b134d8aa-5daa-4cc7-ba79-4d11b27ea93a",
   "site_short_id": "1.105-fall-2003",
